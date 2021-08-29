@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75825547817",
+    "project_id": "onlinechat-c98af",
+    "storage_bucket": "onlinechat-c98af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75825547817:android:0cf49d7e0a3bcf207b2a38",
+        "android_client_info": {
+          "package_name": "com.example.online_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75825547817-1hd3srqcl6herp8rloq2j82171ulr5a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_chat",
+            "certificate_hash": "6a1bb27df4cae3f7fd7b76ca439766d7107b56a4"
+          }
+        },
+        {
+          "client_id": "75825547817-59keclkqsqs8hkeaaeh0j5cthe7jfgsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_chat",
+            "certificate_hash": "e4c19d4b237b714f75b33ce05b2a2b72ed6ed505"
+          }
+        },
+        {
+          "client_id": "75825547817-kuupvs8lhslfg6ssusppjlgtcikt2hb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEEJgG0t4BkFUurgsL9vCoHZ7JwT50VzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75825547817-kuupvs8lhslfg6ssusppjlgtcikt2hb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
